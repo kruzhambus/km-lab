@@ -1,0 +1,18 @@
+{
+  "name": "km-lab",
+  "version": "1.0.0",
+  "description": "km-lab",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --trace-warnings index.js"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "cli-table": "^0.3.11",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@types/node": "^20.3.1"
+  }
+}
